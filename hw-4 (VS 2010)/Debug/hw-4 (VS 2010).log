@@ -1,0 +1,15 @@
+﻿  driver.cpp
+c:\users\amaaz\desktop\hw-4 - 2\hw-4 (vs 2010)\driver.cpp(31): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\amaaz\desktop\hw-4 - 2\hw-4 (vs 2010)\driver.cpp(105): warning C4018: '<': signed/unsigned mismatch
+c:\users\amaaz\desktop\hw-4 - 2\hw-4 (vs 2010)\driver.cpp(112): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\amaaz\desktop\hw-4 - 2\hw-4 (vs 2010)\driver.cpp(128): warning C4018: '<': signed/unsigned mismatch
+c:\users\amaaz\desktop\hw-4 - 2\hw-4 (vs 2010)\driver.cpp(211): warning C4018: '<': signed/unsigned mismatch
+c:\users\amaaz\desktop\hw-4 - 2\hw-4 (vs 2010)\driver.cpp(597): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\amaaz\desktop\hw-4 - 2\hw-4 (vs 2010)\driver.cpp(599): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\amaaz\desktop\hw-4 - 2\hw-4 (vs 2010)\driver.cpp(804): warning C4018: '<': signed/unsigned mismatch
+c:\users\amaaz\desktop\hw-4 - 2\hw-4 (vs 2010)\driver.cpp(866): warning C4018: '<': signed/unsigned mismatch
+c:\users\amaaz\desktop\hw-4 - 2\hw-4 (vs 2010)\driver.cpp(904): warning C4101: 'tempPoint': unreferenced local variable
+c:\users\amaaz\desktop\hw-4 - 2\hw-4 (vs 2010)\driver.cpp(907): warning C4101: 'tempCurrentSelectedColor': unreferenced local variable
+c:\users\amaaz\desktop\hw-4 - 2\hw-4 (vs 2010)\driver.cpp(902): warning C4101: 'points': unreferenced local variable
+c:\users\amaaz\desktop\hw-4 - 2\hw-4 (vs 2010)\driver.cpp(576): warning C4715: 'checkClick': not all control paths return a value
+  hw-4 (VS 2010).vcxproj -> C:\Users\Amaaz\Desktop\hw-4 - 2\Debug\hw-4 (VS 2010).exe
